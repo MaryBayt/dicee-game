@@ -13,6 +13,6 @@ A small pet-project from Dr.Angela's course on Udemy — a dicee game.
 
 **Link to the project**
 
-Please go to [GitHub-Pages](https://marybayt.github.io/dicee-game/) to enjoy it.
+Please go to [GitHub-Pages](https://marybayt.github.io/dicee-game/) and refresh the page to enjoy the game.
 
 Thank you!
